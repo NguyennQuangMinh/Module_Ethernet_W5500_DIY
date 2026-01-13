@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=REVERSION_HISTORY.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TJOYPKAL
+
+[Document2]
 DocumentPath=VOLTAGE_RESOURCE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,8 +83,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EPOZTQFZ
 
-[Document2]
-DocumentPath=MCU.SchDoc
+[Document3]
+DocumentPath=IC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEWJMWLR
 
-[Document3]
+[Document4]
 DocumentPath=PERIPHERALS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYZAAQGL
 
-[Document4]
+[Document5]
 DocumentPath=PCB_V1.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
